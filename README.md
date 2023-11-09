@@ -66,4 +66,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <p align="center">
 <a href="https://github.com/venombolteop/AutoApprove"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub" alt="GitHub" /> </a>
-<a href="https://t.me/"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" /> </a>
+<a href="https://t.me/Venom_bolte_pubIic"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" /> </a>
