@@ -1,0 +1,50 @@
+{
+    "name": "Auto Approve Bot",
+    "description": "Auto approve telegram group/channel join requests bot.",
+    "keywords": [
+        "Bot",
+        "Telegram",
+        "Pyrogram"
+    ],
+    
+    "repository": "https://github.com/venombolteop/AutoApprove",
+    "logo": "https://te.legra.ph/file/8826f37899e52d16b771e.mp4",   
+    
+    "env": {
+    "API_ID": {
+      "description": "Enter your API_ID, get it from my.telegram.org/apps",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Enter your API_HASH, get it from my.telegram.org/apps",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Enter your Bot token, get it from @BotFather",
+      "required": true
+    },
+    "CHID": {
+      "description": "Enter your Force Subscribe channel ID",
+      "required": true
+    },
+    "FSUB": {
+      "description": "Enter your Force Subscribe channel Username without @",
+      "required": true
+    },
+    "SUDO": {
+      "description": "Enter Bot Owners IDS",
+      "required": true
+    },
+    "MONGO_URI": {
+      "description": "Enter Mongodb Url",
+      "required": true
+    } 
+        
+  },
+  
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
